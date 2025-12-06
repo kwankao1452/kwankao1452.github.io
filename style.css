@@ -8,3 +8,48 @@
     display: flex;
     justify-content: end;
 }
+body{
+    background-color: #fffadf;
+}
+.foo{
+    margin: 70px 50px 70px 50px;
+}
+.foo2{
+    margin: 20px 50px 20px 50px;
+}
+.big_text{
+    font-size: 60px;
+}
+#botton{
+    background-color: rgb(241, 168, 245);
+    padding: 10px;
+    border-radius: 10px;
+}
+.hello{
+    font-size: 60px;
+    color: #e078ac;
+}
+.hello1{
+    font-size: 60px;
+    color: #7ecded;
+}
+.hello2{
+    font-size: 60px;
+    color: #c3a5e7;
+}
+.hello3{
+    font-size: 60px;
+    color: #c0e0ae;
+}
+.hello4{
+    font-size: 60px;
+    color: #e9b2b2;
+}
+span{
+    margin: 10px;
+}
+#botton1{
+    background-color: rgb(241, 168, 245);
+    padding: 10px;
+    border-radius: 10px;
+}

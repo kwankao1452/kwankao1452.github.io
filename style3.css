@@ -1,0 +1,29 @@
+body{ background-color:rgb(251, 199, 255);}
+
+img{
+    height: 370px;
+    width: 500px;
+}
+#container{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.nampan{
+   display: flex ;
+   flex-direction: column;
+   width: 500px;
+  
+}
+.ma{
+    margin: 50px;
+}
+#botton{
+    background-color: rgb(154, 197, 228, 1);
+    padding: 10px;
+    border-radius: 10px;
+}
+span{
+    margin: 30px;
+}
